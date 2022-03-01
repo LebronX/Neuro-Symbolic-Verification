@@ -1,0 +1,2 @@
+Specification,Network file,Epsilon,Delta,Time taken,SAT
+checking-sign,../../networks/gtsrb/gtsrb_sign_fc_sign_0_exp4.onnx,,,0.12450695037841797,False

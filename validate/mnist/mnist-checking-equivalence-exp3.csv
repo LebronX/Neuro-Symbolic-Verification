@@ -1,0 +1,11 @@
+Specification,Network file,Epsilon,Delta,Time taken,Upper bound,Lower bound,SAT
+checking-equivalence,../../networks/mnist/mnist_eq_exp3.onnx,0.05,,791.2574970722198,,,True
+checking-equivalence,../../networks/mnist/mnist_eq_exp3.onnx,0.060000000000000005,,607.3175358772278,,,True
+checking-equivalence,../../networks/mnist/mnist_eq_exp3.onnx,0.07,,609.2767012119293,,,True
+checking-equivalence,../../networks/mnist/mnist_eq_exp3.onnx,0.08000000000000002,,591.6441819667816,,,True
+checking-equivalence,../../networks/mnist/mnist_eq_exp3.onnx,0.09000000000000001,,595.7554948329926,,,True
+checking-equivalence,../../networks/mnist/mnist_eq_exp3.onnx,0.1,,601.6719260215759,,,True
+checking-equivalence,../../networks/mnist/mnist_eq_exp3.onnx,0.11000000000000001,,533.756765127182,,,True
+checking-equivalence,../../networks/mnist/mnist_eq_exp3.onnx,0.12000000000000001,,415.47083020210266,,,True
+checking-equivalence,../../networks/mnist/mnist_eq_exp3.onnx,0.13,,415.8995728492737,,,True
+checking-equivalence,../../networks/mnist/mnist_eq_exp3.onnx,0.14,,421.8271281719208,,,True

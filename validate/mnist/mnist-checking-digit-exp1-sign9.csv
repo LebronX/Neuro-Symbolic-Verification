@@ -1,0 +1,2 @@
+Specification,Network file,Epsilon,Delta,Time taken,Upper bound,Lower bound,SAT
+checking-digit,../../networks/mnist/mnist_digit9_exp1.onnx,,,850.5056660175323,,,True

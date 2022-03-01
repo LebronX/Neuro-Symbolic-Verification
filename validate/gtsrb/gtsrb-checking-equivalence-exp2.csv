@@ -1,0 +1,11 @@
+Specification,Network file,Epsilon,Delta,Time taken,SAT
+checking-equivalence,../../networks/gtsrb/gtsrb_eq_fc_exp2.onnx,0.05,,340.5679717063904,True
+checking-equivalence,../../networks/gtsrb/gtsrb_eq_fc_exp2.onnx,0.060000000000000005,,323.9135649204254,True
+checking-equivalence,../../networks/gtsrb/gtsrb_eq_fc_exp2.onnx,0.07,,326.0026640892029,True
+checking-equivalence,../../networks/gtsrb/gtsrb_eq_fc_exp2.onnx,0.08000000000000002,,333.6052510738373,True
+checking-equivalence,../../networks/gtsrb/gtsrb_eq_fc_exp2.onnx,0.09000000000000001,,265.98166704177856,True
+checking-equivalence,../../networks/gtsrb/gtsrb_eq_fc_exp2.onnx,0.1,,186.90335702896118,True
+checking-equivalence,../../networks/gtsrb/gtsrb_eq_fc_exp2.onnx,0.11000000000000001,,186.33776211738586,True
+checking-equivalence,../../networks/gtsrb/gtsrb_eq_fc_exp2.onnx,0.12000000000000001,,186.6531171798706,True
+checking-equivalence,../../networks/gtsrb/gtsrb_eq_fc_exp2.onnx,0.13,,185.44068884849548,True
+checking-equivalence,../../networks/gtsrb/gtsrb_eq_fc_exp2.onnx,0.14,,343.4021089076996,True
